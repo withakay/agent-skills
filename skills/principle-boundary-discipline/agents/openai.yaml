@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Boundary Discipline"
+  short_description: "Subspace principle: boundary discipline"
+policy:
+  allow_implicit_invocation: false

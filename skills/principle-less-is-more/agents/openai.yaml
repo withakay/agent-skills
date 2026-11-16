@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Less Is More"
+  short_description: "Subspace principle: less is more"
+policy:
+  allow_implicit_invocation: false

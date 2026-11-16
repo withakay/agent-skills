@@ -1,0 +1,5 @@
+interface:
+  display_name: "Interrogate"
+  short_description: "One question at a time until it is clear"
+policy:
+  allow_implicit_invocation: true

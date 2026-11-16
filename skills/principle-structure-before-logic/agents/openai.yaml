@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Structure Before Logic"
+  short_description: "Subspace principle: structure before logic"
+policy:
+  allow_implicit_invocation: false

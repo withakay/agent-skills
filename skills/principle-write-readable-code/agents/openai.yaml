@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Write Readable Code"
+  short_description: "Subspace principle: write readable code"
+policy:
+  allow_implicit_invocation: false

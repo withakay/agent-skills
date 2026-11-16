@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "subspace",
+  "version": "1.0.0",
+  "description": "Workflow routing, delivery playbooks, engineering principles, and review skills for coding agents.",
+  "author": {
+    "name": "withakay",
+    "url": "https://github.com/withakay"
+  },
+  "homepage": "https://github.com/withakay/agent-skills",
+  "repository": "https://github.com/withakay/agent-skills",
+  "keywords": ["workflow", "planning", "code-review", "debugging", "security"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Subspace",
+        "shortDescription": "Workflow routing, playbooks, principles, and review skills",
+        "developerName": "withakay",
+        "category": "Coding",
+        "websiteURL": "https://github.com/withakay/agent-skills",
+        "defaultPrompt": ["Use $subspace to choose the right workflow for this request."]
+      }
+    }
+  }
+}

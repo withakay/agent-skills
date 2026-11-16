@@ -1,0 +1,5 @@
+interface:
+  display_name: "Extract Workflow"
+  short_description: "Turn a repeated workflow into a skill"
+policy:
+  allow_implicit_invocation: true

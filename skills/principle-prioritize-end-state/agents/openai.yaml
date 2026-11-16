@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Prioritize End State"
+  short_description: "Subspace principle: prioritize end state"
+policy:
+  allow_implicit_invocation: false

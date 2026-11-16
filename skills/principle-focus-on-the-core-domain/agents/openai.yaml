@@ -1,0 +1,5 @@
+interface:
+  display_name: "Focus on the Core Domain"
+  short_description: "Invest modeling effort where it differentiates"
+policy:
+  allow_implicit_invocation: false

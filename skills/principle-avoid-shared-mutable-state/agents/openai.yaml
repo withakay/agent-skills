@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Avoid Shared Mutable State"
+  short_description: "Subspace principle: avoid shared mutable state"
+policy:
+  allow_implicit_invocation: false

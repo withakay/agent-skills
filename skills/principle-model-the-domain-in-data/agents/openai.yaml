@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Model The Domain In Data"
+  short_description: "Subspace principle: model the domain in data"
+policy:
+  allow_implicit_invocation: false

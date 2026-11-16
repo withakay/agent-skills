@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Migrate and Delete"
+  short_description: "Subspace principle: migrate and delete"
+policy:
+  allow_implicit_invocation: false

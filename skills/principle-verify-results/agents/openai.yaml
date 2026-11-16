@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Verify Results"
+  short_description: "Subspace principle: verify results"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Domain Modeling"
+  short_description: "Clarify domain language and model boundaries"
+policy:
+  allow_implicit_invocation: true

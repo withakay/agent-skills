@@ -1,0 +1,5 @@
+interface:
+  display_name: "Test Simplifier"
+  short_description: "Prune low-value tests, keep behavioural coverage"
+policy:
+  allow_implicit_invocation: true

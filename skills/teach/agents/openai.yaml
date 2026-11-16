@@ -1,0 +1,5 @@
+interface:
+  display_name: "Teach"
+  short_description: "Learn a concept step by step"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Runnable Demos"
+  short_description: "Create, update, list, and run Markdown demos"
+  default_prompt: "Use $runnable-demos to list the demos I can run."
+policy:
+  allow_implicit_invocation: true

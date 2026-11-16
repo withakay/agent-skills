@@ -1,0 +1,5 @@
+interface:
+  display_name: "Evolve a Shared Domain Language"
+  short_description: "Refine domain meaning from scenarios and evidence"
+policy:
+  allow_implicit_invocation: false

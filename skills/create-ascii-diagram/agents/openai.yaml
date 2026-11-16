@@ -1,0 +1,6 @@
+interface:
+  display_name: "Create ASCII Diagram"
+  short_description: "Draw aligned box-and-arrow text diagrams"
+  default_prompt: "Use $create-ascii-diagram to sketch this architecture as a Unicode box diagram."
+policy:
+  allow_implicit_invocation: true

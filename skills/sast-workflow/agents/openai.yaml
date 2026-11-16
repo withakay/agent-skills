@@ -1,0 +1,6 @@
+interface:
+  display_name: "SAST workflow"
+  short_description: "Source-led security review with traceable evidence"
+  default_prompt: "Use $sast-workflow for a fresh, read-only static security review of this repository, integrating relevant Apiiro and SonarQube evidence when available and permitted."
+policy:
+  allow_implicit_invocation: true

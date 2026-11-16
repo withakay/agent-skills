@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Tidy First"
+  short_description: "Subspace principle: tidy first"
+policy:
+  allow_implicit_invocation: false

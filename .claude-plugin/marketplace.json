@@ -1,0 +1,16 @@
+{
+  "name": "withakay",
+  "description": "Agent skills published by withakay.",
+  "owner": {
+    "name": "withakay",
+    "url": "https://github.com/withakay"
+  },
+  "plugins": [
+    {
+      "name": "subspace",
+      "source": "./",
+      "description": "Workflow routing, delivery playbooks, engineering principles, and review skills for coding agents.",
+      "category": "development"
+    }
+  ]
+}

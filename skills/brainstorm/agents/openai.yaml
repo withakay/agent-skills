@@ -1,0 +1,5 @@
+interface:
+  display_name: "Brainstorm"
+  short_description: "Risk-routed design conversation"
+policy:
+  allow_implicit_invocation: true

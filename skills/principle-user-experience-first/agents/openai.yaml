@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle User Experience First"
+  short_description: "Subspace principle: user experience first"
+policy:
+  allow_implicit_invocation: false

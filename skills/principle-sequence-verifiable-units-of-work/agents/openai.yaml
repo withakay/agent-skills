@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Sequence Verifiable Units Of Work"
+  short_description: "Subspace principle: sequence verifiable units of work"
+policy:
+  allow_implicit_invocation: false

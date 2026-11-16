@@ -1,0 +1,5 @@
+interface:
+  display_name: "Make Model Boundaries Explicit"
+  short_description: "Scope models and choose integration relationships"
+policy:
+  allow_implicit_invocation: false

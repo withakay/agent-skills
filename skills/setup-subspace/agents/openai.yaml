@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Subspace"
+  short_description: "Install, update, or remove the Subspace plugin"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Show Me"
+  short_description: "Explain visually with a diagram"
+policy:
+  allow_implicit_invocation: true

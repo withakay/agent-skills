@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Build Bespoke Tools"
+  short_description: "Subspace principle: build bespoke tools"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Code Simplifier"
+  short_description: "Simplify recently changed code, same behaviour"
+policy:
+  allow_implicit_invocation: true

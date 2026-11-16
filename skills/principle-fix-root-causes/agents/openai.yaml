@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Fix Root Causes"
+  short_description: "Subspace principle: fix root causes"
+policy:
+  allow_implicit_invocation: false

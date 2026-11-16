@@ -1,0 +1,5 @@
+interface:
+  display_name: "Deslop"
+  short_description: "Remove AI slop from a diff"
+policy:
+  allow_implicit_invocation: true

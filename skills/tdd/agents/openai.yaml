@@ -1,0 +1,5 @@
+interface:
+  display_name: "TDD"
+  short_description: "Red-green evidence for behavior changes"
+policy:
+  allow_implicit_invocation: true

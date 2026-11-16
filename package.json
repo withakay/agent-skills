@@ -1,0 +1,18 @@
+{
+  "name": "opencode-subspace",
+  "version": "1.0.0",
+  "description": "Workflow routing, delivery playbooks, engineering principles, and review skills for coding agents.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withakay/agent-skills.git"
+  },
+  "exports": {
+    ".": "./opencode-plugin.ts"
+  },
+  "files": ["opencode-plugin.ts", "skills"],
+  "dependencies": {
+    "@opencode/plugin": "latest",
+    "yaml": "^2.8.0"
+  }
+}

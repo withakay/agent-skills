@@ -1,0 +1,12 @@
+{
+  "name": "subspace",
+  "displayName": "Subspace",
+  "description": "Workflow routing, delivery playbooks, engineering principles, and review skills for coding agents.",
+  "author": {
+    "name": "withakay",
+    "url": "https://github.com/withakay"
+  },
+  "homepage": "https://github.com/withakay/agent-skills",
+  "repository": "https://github.com/withakay/agent-skills",
+  "keywords": ["workflow", "planning", "code-review", "debugging", "security"]
+}

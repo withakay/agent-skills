@@ -1,0 +1,5 @@
+interface:
+  display_name: "Synthesizer"
+  short_description: "Spawn N parallel agents with the same task, pick the best"
+policy:
+  allow_implicit_invocation: true

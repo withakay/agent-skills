@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Capture Learnings"
+  short_description: "Subspace principle: capture learnings"
+policy:
+  allow_implicit_invocation: false

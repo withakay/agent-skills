@@ -1,0 +1,5 @@
+interface:
+  display_name: "Principle Never Block On Reversible Work"
+  short_description: "Subspace principle: never block on reversible work"
+policy:
+  allow_implicit_invocation: false
